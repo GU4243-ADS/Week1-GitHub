@@ -23,8 +23,8 @@ A *clone* is a copy of a repository that lives on your computer instead of on a 
 	
 #### Work on GitHub Desktop
 * Work in local repository
-    	* Add/Change files
-    	* Commit to local repository
+    * Add/Change files
+    * Commit to local repository
 		* A *commit*, or "revision", is an individual change to a file. It's like when you save a file, except with Git, the save also creates a unique ID that allows you to keep record of what changes were made when and by who.
 	* Push to remote repository
 		* *Pushing* refers to sending your committed changes to a repository hosted on GitHub. For instance, if you change something locally, you'd want to then push those changes so that others may access them.
