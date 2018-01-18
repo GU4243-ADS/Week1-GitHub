@@ -2,7 +2,9 @@
 title: "Some Simple SPOOKY Data Analysis"
 author: "Cindy Rush"
 date: "January 22, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 # Introduction
